@@ -1,5 +1,6 @@
-## Hi there 👋
+## 杏耀平台网址发布 👋
 
+<https://xingyao8.github.io>
 <!--
 **xingyao8/xingyao8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
